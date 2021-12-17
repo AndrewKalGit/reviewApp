@@ -1,0 +1,7 @@
+{
+    "containerService": {
+        "containerServiceName": "flask-service",
+        "power": "1",
+        "state": "PENDING"
+    }
+}
